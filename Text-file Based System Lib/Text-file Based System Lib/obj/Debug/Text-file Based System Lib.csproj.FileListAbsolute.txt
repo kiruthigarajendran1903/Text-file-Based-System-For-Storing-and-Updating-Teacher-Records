@@ -1,0 +1,6 @@
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\Text-file Based System Lib\Text-file Based System Lib\bin\Debug\Text-file Based System Lib.dll
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\Text-file Based System Lib\Text-file Based System Lib\bin\Debug\Text-file Based System Lib.pdb
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\Text-file Based System Lib\Text-file Based System Lib\obj\Debug\Text-file Based System Lib.csproj.AssemblyReference.cache
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\Text-file Based System Lib\Text-file Based System Lib\obj\Debug\Text-file Based System Lib.csproj.CoreCompileInputs.cache
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\Text-file Based System Lib\Text-file Based System Lib\obj\Debug\Text-file Based System Lib.dll
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\Text-file Based System Lib\Text-file Based System Lib\obj\Debug\Text-file Based System Lib.pdb

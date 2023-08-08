@@ -1,0 +1,11 @@
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\ConApp_Text_File_project2\ConApp_Text_File_project2\bin\Debug\ConApp_Text_File_project2.exe.config
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\ConApp_Text_File_project2\ConApp_Text_File_project2\bin\Debug\ConApp_Text_File_project2.exe
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\ConApp_Text_File_project2\ConApp_Text_File_project2\bin\Debug\ConApp_Text_File_project2.pdb
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\ConApp_Text_File_project2\ConApp_Text_File_project2\bin\Debug\Text-file Based System Lib.dll
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\ConApp_Text_File_project2\ConApp_Text_File_project2\bin\Debug\Text-file Based System Lib.pdb
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\ConApp_Text_File_project2\ConApp_Text_File_project2\obj\Debug\ConApp_Text_File_project2.csproj.AssemblyReference.cache
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\ConApp_Text_File_project2\ConApp_Text_File_project2\obj\Debug\ConApp_Text_File_project2.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\ConApp_Text_File_project2\ConApp_Text_File_project2\obj\Debug\ConApp_Text_File_project2.csproj.CoreCompileInputs.cache
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\ConApp_Text_File_project2\ConApp_Text_File_project2\obj\Debug\ConApp_Text_File_project2.csproj.CopyComplete
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\ConApp_Text_File_project2\ConApp_Text_File_project2\obj\Debug\ConApp_Text_File_project2.exe
+D:\SimpliLearn\Phase End Project\C# Final project\Text-file Based System project 2\ConApp_Text_File_project2\ConApp_Text_File_project2\obj\Debug\ConApp_Text_File_project2.pdb
